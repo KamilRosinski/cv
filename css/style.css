@@ -2,7 +2,6 @@
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
-	/*font-family: Arial, Helvetica, sans-serif;*/
 	font-family: 'Roboto Condensed', sans-serif;
 	color: dimgray;
 }
@@ -62,12 +61,6 @@ h1 {
 address {
 	font-style: normal;
 }
-
-/*address i {*/
-/*	margin-right: 1rem;*/
-/*	width: 1.2rem;*/
-/*	height: 1.2rem;*/
-/*}*/
 
 address .col-icon {
 	text-align: center;
