@@ -59,7 +59,13 @@ h1 {
 }
 
 address {
+	display: flex;
+	justify-content: flex-start;
 	font-style: normal;
+}
+
+address table:not(:last-child) {
+	margin-right: 1rem;
 }
 
 address .col-icon {
