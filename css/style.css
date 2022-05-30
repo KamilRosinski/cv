@@ -8,14 +8,16 @@
 
 html {
 	background-color: white;
-}
-
-body {
 	width: 210mm;
 	height: 297mm;
 	margin: 0.5rem auto;
 	padding: 0.5rem;
-	/*background-color: whitesmoke;*/
+	overflow: auto;
+}
+
+body {
+	max-height: 100%;
+	overflow: auto;
 }
 
 header {
